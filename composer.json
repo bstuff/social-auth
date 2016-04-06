@@ -1,0 +1,16 @@
+{
+    "name": "bstuff/social-auth",
+    "description": "wrapper for yii2-authclient with user management features",
+    "type": "module",
+    "require": {
+        "yiisoft/yii2-imagine": "^2.0"
+    },
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "Andrew Lavrentev",
+            "email": "lavrentev@betaagency.ru"
+        }
+    ],
+    "minimum-stability": "dev"
+}
